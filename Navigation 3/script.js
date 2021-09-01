@@ -1,5 +1,5 @@
 $( "li" ).hover(
-  function(1) {
+  function() {
       $(this).find("span").stop().animate({
       width:"100%",
       opacity:"1",
